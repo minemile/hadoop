@@ -1,0 +1,10 @@
+.idea/
+.gradle/
+build/
+*.iml
+*~
+temps.csv
+temps.kml
+output/
+out/
+data/part-01
